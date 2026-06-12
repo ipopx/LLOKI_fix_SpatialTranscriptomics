@@ -1,0 +1,13 @@
+*.h5ad
+
+# Block large model weights
+*.pt
+*.pth
+
+# Block Mac specific junk
+.DS_Store
+**/.DS_Store
+
+# Block Python cache
+__pycache__/
+**/__pycache__/
